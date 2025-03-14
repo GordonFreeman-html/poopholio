@@ -1,0 +1,32 @@
+html {
+margin: auto;
+background-color: rgb(202, 227, 251);
+}
+body {
+    margin: auto;
+    width: 800px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 50px;
+}
+span {
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: rgba(255, 192, 210, 0.549);
+display:block;
+border-radius: 5px;
+padding: 10px;
+}
+table,td {
+    border: black 2px solid;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+}
+img {
+    padding:10px;
+}
+a {
+
+color: darkblue;
+}
